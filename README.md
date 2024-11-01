@@ -1,4 +1,4 @@
-#RPG Game
+# RPG Game
 
 Overview This C++ command-line RPG game lets players engage in thrilling battles, heal themselves, and strive for victory. It reads character data from a file and saves game results to another file.
 
